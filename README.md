@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @lucashill1717!
+- 👀 I’m interested in Python, Linux, and web development.
+- 🌱 I’m currently learning React.
+- 💞️ I’m looking to collaborate on Linux issues and data analysis with Python.
+- 📫 How to reach me: lucashill1717@gmail.com or https://www.linkedin.com/in/lucas-hill-77830a237/
