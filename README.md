@@ -1,5 +1,1 @@
-- 👋 Hi, I’m @lucashill1717!
-- 👀 I’m interested in Python scripting, embedded programming, and AI/ML.
-- 🌱 I’m currently re-learning C++.
-- 💞️ I’m looking to collaborate on Linux issues and Python development.
-- 📫 How to reach me: lucashill1717@gmail.com
+Still moving and learning
